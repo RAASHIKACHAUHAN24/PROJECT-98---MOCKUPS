@@ -1,0 +1,6 @@
+This project will contain a Home screen :-
+There will be a app header a picture and three button named - News,Weather and Dictionary.
+Each button will have a picture.
+There will two links in news button which will take the user to news.
+There will be current temperature and weather type in the weather button.
+In dictionary button there will be a box to search the meaning of words and a buuton to hear those words.
